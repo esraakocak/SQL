@@ -5,4 +5,5 @@ Yapılandırılmış sorgu dili anlamına gelir. Sql sayesinde veri tabanı yön
 Sql komutlarında büyük harf küçük harf duyarlılığı yoktur.
 
 **SELECT** : veritabanından belirtilen sütunlardaki verileri çekmemizi sağlar.
+
 **WHERE** :Verilerin tamamını değil de belirli koşulları sağlayan verileri çekmek istediğimizde kullanırız.
